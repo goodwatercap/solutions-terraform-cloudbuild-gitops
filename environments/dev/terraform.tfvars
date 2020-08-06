@@ -1,1 +1,1 @@
-project="infra-1972"
+project="blt-test-project"

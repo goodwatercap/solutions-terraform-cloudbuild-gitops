@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "infra-1972-tfstate"
+    bucket = "blt-test-project-tfstate"
     prefix = "env/dev"
   }
 }
